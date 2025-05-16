@@ -2,15 +2,15 @@
 
 - title: Home
   url: /
-- title: Posts
-  url: /posts/
-- title: Categories
+#- title: Posts
+#  url: /posts/
+- title: Project   #原来是：Categories
   url: /categories/
-- title: Tags
-  url: /tags/
-- title: Recipes
-  url: /recipes/
+#- title: Tags
+#  url: /tags/
+#- title: Recipes
+#  url: /recipes/
 - title: Search
   url: /search/
-- title: External Page
-  url: https://the-page.com/you-want-to-link-to.html
+#- title: External Page
+#  url: https://the-page.com/you-want-to-link-to.html
