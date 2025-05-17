@@ -21,7 +21,7 @@ title: "Keye Zhu"
 description: "Building Tomorrow with Product Strategy and Data Insights."
 baseurl: # the subpath of your site, e.g. "/blog"
 url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-logo: "/images/logo.png" # path of site logo, e.g. "/images/logo.png"
+logo: "keye-photo1.jpg" # path of site logo, e.g. "/images/logo.png"
 date_format: "%B %-d, %Y"
 read_time: # reading time estimates, e.g. true
 words_per_minute: # 200
@@ -106,8 +106,6 @@ author:
     - title: GitHub
       url: https://github.com/keye25  # 替换为真实的 GitHub 链接
       icon: fab fa-github-square
-
-
 
 
 # Footer Links
